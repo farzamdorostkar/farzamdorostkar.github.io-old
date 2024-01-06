@@ -11,7 +11,6 @@
 
 ## Education
 
-| Degree | University |
 |--------|------------|
 | Ph.D. Candidate in Computer Engineering | Polytechnique Montréal |
 | M.Sc. in Electrical Engineering | Iran University of Science and Technology |

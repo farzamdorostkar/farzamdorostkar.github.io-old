@@ -81,9 +81,16 @@ pre {
 }
 
 table {
-  width:75%;
+  width:100%;
   border-collapse:collapse;
 }
+
+.education-table {
+  width:75%; // Or whatever width you prefer
+  // Other specific styles you want for this table
+  border-collapse: collapse;
+}
+
 
 th, td {
   text-align:left;

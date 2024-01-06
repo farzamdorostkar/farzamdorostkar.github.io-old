@@ -7,11 +7,13 @@
 
 <table class="education-table">
   <tr>
-    <td>Ph.D. Candidate in Computer Engineering</td>
+    <td>Ph.D. Candidate</td>
+    <td>Computer Engineering</td>
     <td>Polytechnique Montréal</td>
   </tr>
   <tr>
-    <td>M.Sc. in Electrical Engineering</td>
+    <td>M.Sc.</td>
+    <td>Electrical Engineering</td>
     <td>Iran University of Science and Technology</td>
   </tr>
 </table>

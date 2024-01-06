@@ -31,3 +31,9 @@
     <td>Iran University of Science and Technology</td>
   </tr>
 </table>
+
+## Education
+
+- Ph.D. Candidate in Computer Engineering&nbsp;&nbsp;&nbsp;| Polytechnique Montréal
+- M.Sc. in Electrical Engineering&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Iran University of Science and Technology
+
